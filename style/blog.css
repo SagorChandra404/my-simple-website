@@ -1,0 +1,10 @@
+h1{
+    color: coral;
+    text-align: center;
+}
+div{
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 10px 100px 60px 50px;
+    padding: 20px;
+}
